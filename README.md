@@ -107,7 +107,7 @@ uv sync
 ### 6. Run the Application
 
 ```powershell
-python main.py
+uv run python main.py
 ```
 
 ---
