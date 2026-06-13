@@ -35,7 +35,8 @@ and then generates a risk score with explanations.
 QR-PROJECT/
 
 ├── analyzer.py
-├── main.py
+├── app.py          ← Flask Web App
+├── main.py         ← Tkinter GUI App
 ├── pyproject.toml
 ├── README.md
 └── uv.lock
