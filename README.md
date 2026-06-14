@@ -24,7 +24,6 @@ and then generates a risk score with explanations.
 ## Technologies Used
 - Python 3.11+
 - Tkinter (GUI)
-- Flask web
 - UV Package Manager
 
 ---
